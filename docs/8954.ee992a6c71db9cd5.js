@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkexample_app=self.webpackChunkexample_app||[]).push([[8954],{78954:(n,e,_)=>{_.r(e),_.d(e,{build:()=>s.b}),_(6067),_(39704),_(84178),_(17625),_(63123),_(46524),_(22355),_(16396);var s=_(5585)}}]);
