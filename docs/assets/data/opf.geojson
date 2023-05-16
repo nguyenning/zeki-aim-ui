@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "name": "24-ESDV-1101-06",
+        "tag": "24-ESDV-1101-06",
+        "infomapLink": "https://app-sdx-test.tpotc.com.tr/TPOTC/#/infomap-viewer;obid=6MZC08NA;config=%5B%22PR_SC26%22%5D",
+        "documentsLink": "https://app-sdx-test.tpotc.com.tr/TPOTC/#/results;queryFilter=%7B%22filters%22:%5B%5D,%22pageSize%22:100,%22page%22:1,%22ignoreQueryBySelectedConfig%22:false,%22isLoaded%22:true,%22relatedItemFilters%22:%5B%5D,%22expandFromObjectId%22:%226MZC08NA%22,%22navigation%22:%22EDG_SPFNTagToDocument%22,%22endInterface%22:%22ISPFDocumentRevision%22,%22hasLink%22:true,%22columnSet%22:%22CS_SPFNDocumentCS%22,%22config%22:%7B%22key%22:%22PR_SC26%22,%22value%22:%22SC26%22%7D%7D;requestConfigOnly=true;config=%5B%22PR_SC26%22%5D;selected=PR_SC26"
+      },
+      "geometry": {
+        "coordinates": [32.065007408819554, 41.571304426469965],
+        "type": "Point"
+      }
+    }
+  ]
+}
