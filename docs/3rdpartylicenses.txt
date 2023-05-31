@@ -338,6 +338,9 @@ SEE LICENSE IN copyright.txt
 @ngrx/effects
 MIT
 
+@ngrx/entity
+MIT
+
 @ngrx/store
 MIT
 
